@@ -1,0 +1,54 @@
+@model Ventas.Models.DetallePedidoModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Nuevo</h1>
+
+<h4>Detalle Pedido</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Cantidad" class="control-label"></label>
+                <input asp-for="Cantidad" class="form-control" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Precio" class="control-label"></label>
+                <input asp-for="Precio" class="form-control" />
+                <span asp-validation-for="Precio" class="text-danger"></span>
+            </div>           
+
+            <div class="form-group">
+                <label asp-for="PedidoModelId" class="control-label">Número de Pedido</label>
+                <select asp-for="PedidoModelId" class="form-control" asp-items="ViewBag.ListaPedidos">
+                    <option value="">Seleccione un Pedido</option>
+                </select>
+                <span asp-validation-for="PedidoModelId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ProductoModelId" class="control-label">Producto</label>
+                <select asp-for="ProductoModelId" class="form-control" asp-items="ViewBag.ListaProductos">
+                    <option value="">Seleccione un Producto</option>
+                </select>
+                <span asp-validation-for="ProductoModelId" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Atrás</a>
+</div>

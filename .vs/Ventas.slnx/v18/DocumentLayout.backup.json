@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TICS\\Documents\\Ivan\\UNIANDES\\6TO SEMESTRE\\Aplicaciones Web\\Cuarta Semana\\Ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F528FF-DDD0-52C2-692E-A558359221CD}|Ventas\\Ventas.csproj|c:\\users\\tics\\documents\\ivan\\uniandes\\6to semestre\\aplicaciones web\\cuarta semana\\ventas\\ventas\\views\\pedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21F528FF-DDD0-52C2-692E-A558359221CD}|Ventas\\Ventas.csproj|solutionrelative:ventas\\views\\pedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F528FF-DDD0-52C2-692E-A558359221CD}|Ventas\\Ventas.csproj|c:\\users\\tics\\documents\\ivan\\uniandes\\6to semestre\\aplicaciones web\\cuarta semana\\ventas\\ventas\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F528FF-DDD0-52C2-692E-A558359221CD}|Ventas\\Ventas.csproj|solutionrelative:ventas\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TICS\\Documents\\Ivan\\UNIANDES\\6TO SEMESTRE\\Aplicaciones Web\\Cuarta Semana\\Ventas\\Ventas\\Views\\Pedido\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ventas\\Views\\Pedido\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TICS\\Documents\\Ivan\\UNIANDES\\6TO SEMESTRE\\Aplicaciones Web\\Cuarta Semana\\Ventas\\Ventas\\Views\\Pedido\\Index.cshtml",
+              "RelativeToolTip": "Ventas\\Views\\Pedido\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T21:34:45.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\TICS\\Documents\\Ivan\\UNIANDES\\6TO SEMESTRE\\Aplicaciones Web\\Cuarta Semana\\Ventas\\Ventas\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Ventas\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\TICS\\Documents\\Ivan\\UNIANDES\\6TO SEMESTRE\\Aplicaciones Web\\Cuarta Semana\\Ventas\\Ventas\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Ventas\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T21:33:45.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
